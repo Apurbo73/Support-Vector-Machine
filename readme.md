@@ -1,1 +1,1 @@
-### Support Vector_Machine
+### Support Vector Machine
